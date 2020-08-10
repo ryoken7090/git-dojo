@@ -25,12 +25,9 @@
 8 hoge
 10 かえたぜ〜〜〜！
 11 hoge
-12 hoge
+12 イーブイ
 13 hoge
-<<<<<<< 7888d8cabfadd39ea2c647515fc5bbdad3ce5fee
 14 7の倍です
 
-=======
 14 hoge
->>>>>>> Fix 8 hoge to pikachu
 15 hoge
